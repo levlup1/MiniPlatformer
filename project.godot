@@ -33,7 +33,6 @@ _global_script_class_icons={
 [application]
 
 config/name="MiniPlatformGame"
-run/main_scene="res://World.tscn"
 config/icon="res://icon.png"
 
 [aseprite_animation_importer]
